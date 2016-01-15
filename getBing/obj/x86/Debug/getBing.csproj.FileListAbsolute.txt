@@ -14,3 +14,4 @@ C:\Users\v-xiafe\Documents\Visual Studio 2015\Projects\getBing\getBing\obj\x86\D
 C:\Users\v-xiafe\Documents\Visual Studio 2015\Projects\getBing\getBing\obj\x86\Debug\qualifiers.txt
 C:\Users\v-xiafe\Documents\Visual Studio 2015\Projects\getBing\getBing\obj\x86\Debug\qualifiers.txt.intermediate
 C:\Users\v-xiafe\Documents\Visual Studio 2015\Projects\getBing\getBing\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\v-xiafe\Documents\Visual Studio 2015\Projects\getBing\getBing\obj\x86\Debug\getBing.csprojResolveAssemblyReference.cache

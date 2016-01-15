@@ -48,7 +48,7 @@ namespace getBing
                 result = await QueryEngine.GetHttpResponseAsQueryResult(url);
             }
             catch (Exception e) { }
-            if (result == null)
+            if (result == null ||result.LexiconEntry==null)
             {
                 return "03";
             }
